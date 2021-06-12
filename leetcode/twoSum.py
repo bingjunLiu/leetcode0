@@ -11,5 +11,8 @@ class Solution:
                 return [hashmap[num],index]
             hashmap[target-num]=index
         return None
+if __name__ == "__main__":
+    Solution_instance = Solution()
+
 
 
