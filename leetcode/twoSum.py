@@ -13,7 +13,7 @@ class Solution:
         return None
 if __name__ == "__main__":
     Solution_instance = Solution()
-    print('yes and No')
+    print('yes and ')
 
 
 
