@@ -22,8 +22,6 @@ class Solution:
         result_str += str(count) + tmp_factor
         return result_str
 
-test_function = Solution()
-print(test_function.get_str('1112'))
 
 
 
